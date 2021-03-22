@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP6</string>
+    <string name="add_planet">Nouvelle planete</string>
+    <string name="name">Nom</string>
+    <string name="size">Taille</string>
+    <string name="add">Ajouter</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP4 - Exercice 1</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="section_title_spring">Printemps</string>
+    <string name="section_title_summer">Été</string>
+    <string name="section_title_autumn">Automne</string>
+    <string name="section_title_winter">Hiver</string>
+    <string name="section_menu">Menu</string>
+</resources>

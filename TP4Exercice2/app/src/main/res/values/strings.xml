@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TP4 - Exercice 2</string>
+    <string name="PaypalPayment">Paypal</string>
+    <string name="CardPayment">Carte bancaire</string>
+    <string name="PaymentSetting">Option de paiement</string>
+    <string name="PayWithPaypal">Payer avec paypal</string>
+    <string name="firstname">Prénom</string>
+    <string name="lastname">Nom de famille</string>
+    <string name="card_number">Numéro de carte</string>
+    <string name="cvc">Code cvc</string>
+    <string name="expiration_date">Date d\'expiration</string>
+    <string name="pay_with_card">Payer</string>
+    <string name="pay">Payer</string>
+    <string name="mail">Mail</string>
+    <string name="password">Mot de passe</string>
+</resources>
